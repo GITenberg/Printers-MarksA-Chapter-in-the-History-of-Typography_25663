@@ -1,0 +1,29 @@
+_repo: Printers-MarksA-Chapter-in-the-History-of-Typography_25663
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, W. (William)
+    alias: Roberts, William
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '25442'
+    url: http://www.gutenberg.org/2009/agents/25442
+description: ''
+gutenberg_issued: '2008-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printers'' marks'
+- !lcc 'Z'
+title: 'Printers'' Marks
+
+  A Chapter in the History of Typography'
+url: http://www.gutenberg.org/ebooks/25663
